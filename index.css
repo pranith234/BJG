@@ -1,0 +1,74 @@
+/* body{
+    margin: 0px;
+    padding: 0px;
+}
+#image-block{
+    width: fit-content;
+    margin: 50px;
+
+}
+.nike-shoe{
+    width: 200px;
+    height: 200px;
+}
+#shoe-name{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+}
+#purchase-btn{
+    color: black;
+    padding: 10px 50px;
+    border-radius: 50px;
+}
+#error {
+    color: red;
+ */
+/*  body{
+     border: 1px solid black;
+     margin: 10px;
+     text-align: center;
+     padding: 30px;
+     color: 5px solid black;
+ }
+ span{
+    font-size: 50px;
+     font-weight: bold;
+     border-bottom: 1px solid black;
+ }
+ button{
+     padding: 10px 30px;
+     margin: 10px;
+     background: none;
+     border-bottom-left-radius:50px ;
+
+ } */
+
+ body{
+     background-image: url('images/table.jpeg');
+     background-size: cover;
+     background-position: center;
+     text-align: center;
+     color: white;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-weight: bold;
+ }
+ h1{
+     color: goldenrod;
+ }
+ #message-el{
+
+     font-style: italic;
+ }
+ #startGame{
+     width: 150px;
+     background-color: goldenrod;
+     color: #016f32;
+     border: none;
+     border-radius: 5px;
+     padding-top: 5px;
+     padding-bottom: 5px;
+     font-weight: bold;
+     margin: 2px;
+ }
